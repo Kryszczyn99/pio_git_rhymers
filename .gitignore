@@ -12,3 +12,6 @@ powp-rhymers.iml
 *.zip
 *.exe
 *.class
+*.classpath
+*.project
+.settings/
